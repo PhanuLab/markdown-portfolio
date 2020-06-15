@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of SSRUCS PhanuLAB](/Users/phanuwaraporn/Pictures/PhanuLAB.png)
